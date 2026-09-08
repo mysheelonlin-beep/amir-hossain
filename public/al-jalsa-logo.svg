@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 220" width="100%" height="100%" fill="none">
+  <!-- Arabian Traditional Bedouin Tent Canopy Roof -->
+  <g fill="#3B3D40">
+    <!-- Left Wing of Tent Roof -->
+    <path d="M140 14 C100 14 55 33 16 68 C 12 72 8 70 10 65 C 18 42 65 18 138 12 C 141 12 142 14 140 14 Z" />
+    <path d="M140 15 C102 24 64 42 22 72 C 18 75 14 74 15 70 C 24 50 68 28 136 19 C 139 19 141 15 140 15 Z" opacity="0.9" />
+    
+    <!-- Right Wing of Tent Roof -->
+    <path d="M140 14 C180 14 225 33 264 68 C 268 72 272 70 270 65 C 262 42 215 18 142 12 C 139 12 138 14 140 14 Z" />
+    <path d="M140 15 C178 24 216 42 258 72 C 262 75 266 74 265 70 C 256 50 212 28 144 19 C 141 19 139 15 140 15 Z" opacity="0.9" />
+  </g>
+
+  <!-- Skewers / Torches & Waves + مطعم in Charcoal Grey (#3B3D40) -->
+  <g stroke="#3B3D40" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left Skewer with sharp tip & crossbar -->
+    <path d="M56 60 L56 122" stroke-width="3" />
+    <path d="M53 60 L56 50 L59 60 Z" fill="#3B3D40" stroke-width="1" />
+    <path d="M46 110 L66 110" stroke-width="4.5" />
+    <circle cx="56" cy="110" r="3.5" fill="#3B3D40" />
+
+    <!-- Left Skewer Aroma / Heat Waves (Outer, Middle, Inner) -->
+    <!-- Left side waves -->
+    <path d="M42 84 C34 94 34 104 42 114" stroke-width="2.2" fill="none" />
+    <path d="M47 89 C42 96 42 102 47 109" stroke-width="2" fill="none" />
+    <path d="M51 94 C48 98 48 102 51 106" stroke-width="1.8" fill="none" />
+    <!-- Right side waves -->
+    <path d="M70 84 C78 94 78 104 70 114" stroke-width="2.2" fill="none" />
+    <path d="M65 89 C70 96 70 102 65 109" stroke-width="2" fill="none" />
+    <path d="M61 94 C64 98 64 102 61 106" stroke-width="1.8" fill="none" />
+
+    <!-- Right Skewer with sharp tip & crossbar -->
+    <path d="M224 60 L224 122" stroke-width="3" />
+    <path d="M221 60 L224 50 L227 60 Z" fill="#3B3D40" stroke-width="1" />
+    <path d="M214 110 L234 110" stroke-width="4.5" />
+    <circle cx="224" cy="110" r="3.5" fill="#3B3D40" />
+
+    <!-- Right Skewer Aroma / Heat Waves -->
+    <!-- Left side waves -->
+    <path d="M210 84 C202 94 202 104 210 114" stroke-width="2.2" fill="none" />
+    <path d="M215 89 C210 96 210 102 215 109" stroke-width="2" fill="none" />
+    <path d="M219 94 C216 98 216 102 219 106" stroke-width="1.8" fill="none" />
+    <!-- Right side waves -->
+    <path d="M238 84 C246 94 246 104 238 114" stroke-width="2.2" fill="none" />
+    <path d="M233 89 C238 96 238 102 233 109" stroke-width="2" fill="none" />
+    <path d="M229 94 C232 98 232 102 229 106" stroke-width="1.8" fill="none" />
+
+    <!-- Connecting Horizontal Bar -->
+    <path d="M66 110 L214 110" stroke-width="4" />
+  </g>
+
+  <!-- Arabic Calligraphy "مطعم" in Charcoal (#3B3D40) -->
+  <g fill="#3B3D40">
+    <!-- Stylized Arabic text for مطعم -->
+    <!-- Taa vertical stroke -->
+    <path d="M125 76 L130 76 L128 109 L123 109 Z" />
+    <!-- Loop of Taa and Ain -->
+    <path d="M110 101 C112 94 122 93 129 97 C133 99 135 103 133 107 C131 111 123 112 116 111 C111 110 109 106 110 101 Z" />
+    <path d="M138 98 C140 92 147 91 152 95 C155 98 156 104 153 108 C149 112 142 111 138 109 L138 98 Z" />
+    <!-- Meem loop at beginning -->
+    <path d="M96 102 C97 97 103 96 107 99 C110 102 110 107 106 110 C102 113 96 111 96 102 Z" />
+    <!-- Meem descender on left -->
+    <path d="M94 108 L94 120 C94 122 91 123 89 121 C88 119 89 112 91 108 Z" />
+    <!-- Native Arabic font fallback rendering for crisp display -->
+    <text x="140" y="106" font-family="'Traditional Arabic', 'Scheherazade New', 'Amiri', 'Segoe UI', Tahoma, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" letter-spacing="1">مطعم</text>
+  </g>
+
+  <!-- Arabic Calligraphy "الجلسه للمندي" in Rich Crimson Red (#C21B24) -->
+  <g fill="#C21B24">
+    <text x="140" y="148" font-family="'Traditional Arabic', 'Amiri', 'Scheherazade New', 'Noto Naskh Arabic', 'Segoe UI', sans-serif" font-size="30" font-weight="900" text-anchor="middle" letter-spacing="0.5">الجلسه للمندي</text>
+  </g>
+
+  <!-- English Text: AL JALSA FOR MANDI in Rich Crimson Red (#C21B24) -->
+  <text x="140" y="180" font-family="'Cinzel', 'Trajan Pro', 'Plus Jakarta Sans', system-ui, sans-serif" font-size="21" font-weight="800" text-anchor="middle" fill="#C21B24" letter-spacing="2">AL JALSA FOR MANDI</text>
+
+  <!-- English Subtitle: RESTAURANT in Charcoal Grey (#5A5D62) -->
+  <text x="140" y="204" font-family="'Plus Jakarta Sans', 'Inter', system-ui, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#5A5D62" letter-spacing="7">RESTAURANT</text>
+</svg>

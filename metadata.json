@@ -1,0 +1,6 @@
+{
+  "name": "Al Jalsa Mandi Restaurant",
+  "description": "Authentic Arabian Mandi, slow-cooked tender meats, fragrant basmati rice, and traditional Middle Eastern hospitality in a premium dining experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
